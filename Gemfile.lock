@@ -103,6 +103,9 @@ GEM
       ruby2_keywords
     error_highlight (0.5.1)
     erubi (1.12.0)
+    font_awesome5_rails (1.5.0)
+      nokogiri (>= 1.11.3)
+      railties (>= 4.2)
     globalid (1.2.1)
       activesupport (>= 6.1)
     i18n (1.14.1)
@@ -241,6 +244,7 @@ DEPENDENCIES
   capybara
   debug
   error_highlight (>= 0.4.0)
+  font_awesome5_rails
   importmap-rails
   jbuilder
   puma (>= 5.0)

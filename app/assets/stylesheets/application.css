@@ -13,3 +13,39 @@
  *= require_tree .
  *= require_self
  */
+@import 'font_awesome5_webfont';
+
+.index {
+  list-style-type: none;
+  padding: 0;
+}
+
+.link{
+  text-decoration: none;
+}
+
+.big-box {
+  margin: 40px;
+}
+
+.big-box h1 {
+  margin-bottom: 20px;
+}
+
+.new-task {
+  margin-top: 20px;
+}
+
+.list {
+  padding-left: 20px;
+  padding-right: 40px;
+}
+
+.text-delete {
+  width: 300px;
+}
+
+.delete i {
+  width: 10px;
+  height: 10px;
+}
